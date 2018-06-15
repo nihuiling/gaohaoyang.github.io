@@ -9,26 +9,19 @@ tags: jekyll RubyGems
 * content
 {:toc}
 
-一直以来都想搭建一个自己的博客，但是近半年做项目太忙，再加上教研室的网络很坑爹，所以也一直没顾得上。之前用过 WordPress 托管在免费的京东云擎上，但是速度太慢。在知乎上看到一些相关的内容，于是选择了在github上用jekyll搭建博客。
+一直以来都想去三亚旅游，上周我终于有机会来到三亚了。在这里我就来好好的玩耍，吃美食和拍照。
 
 
 
 
+## 抵达三亚前
 
-## 搭建过程
+在来三亚前我就做好了攻略，首先我会先在网上定酒店，其次从深圳宝安坐飞机飞往三亚，然后再去当地的旅游景点玩。
+### 到达三亚
 
-在jekyll的官网上 [http://jekyllrb.com/](http://jekyllrb.com/) 其实已经说得比较明白了，我在这里还是简单的说一下吧。我用的是Windows系统。    
-主要环节有：安装Ruby，安装RubyGems，安装jekyll，安装代码高亮插件，安装node.js
+刚下飞机，酒店里的接送生就早已在那里等候了。他们的服务态度很好，为人也很热情。在回酒店的路上，他不停地和我们介绍这里的人文景点。
 
-### 安装Ruby
 
-ruby官网下载安装：[https://www.ruby-lang.org/en/downloads/](https://www.ruby-lang.org/en/downloads/)
-
-安装完成后配置环境变量
-
-在命令提示符中，得到ruby版本号，如下图，即安装成功
-
-![](http://ww4.sinaimg.cn/large/7011d6cfjw1f2ue0e393vj20cu00t748.jpg)
 
 ### 安装RubyGems
 
